@@ -4,4 +4,4 @@ Some Description.
 
 # Hello Git
 
-Hi...
+Hi..
